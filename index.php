@@ -1,5 +1,6 @@
 <?php
 echo "edit for git";
+$git = "this is for git";
 
 ?>
 
